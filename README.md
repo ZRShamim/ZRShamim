@@ -1,6 +1,6 @@
 ### Hi 👋, I am Ziaur Rahman Shamim 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=ZRShamim&label=PROFILE+VIEWS)
 
 - 🌱 I’m currently learning ... Flutter
 - 💬 Ask me about ... Front End Web Development, Flutter, OOP
