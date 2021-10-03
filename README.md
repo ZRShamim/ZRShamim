@@ -1,3 +1,4 @@
+<p align="center">  <img src="https://i.pinimg.com/originals/7c/ac/53/7cac53b96635b5ad0684f99d95de1bbf.gif" width="900" height="350"/> </p>
 <h1 align="center">Hi 👋, I'm Ziaur Rahman Shamim</h1>
 
 ![](https://komarev.com/ghpvc/?username=ZRShamim&label=PROFILE+VIEWS)
