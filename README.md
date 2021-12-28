@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=ZRShamim&label=PROFILE+VIEWS)
 
 - 🌱 I’m currently learning ... **Flutter**
-- 💬 Ask me about ... **Front End Web Development, Flutter, OOP**
+- 💬 Ask me about ... **Flutter, OOP ,Dart, Front End Web Development**
 - ⚡ About Me: ... **I am very fun loving person, love to play video games and have a interest on world history.**
 
 <h3 align="left">How to reach me</h3>  
