@@ -7,6 +7,20 @@
 - 💬 Ask me about ... **Flutter, OOP ,Dart, Front End Web Development**
 - ⚡ About Me: ... **I am very fun loving person, love to play video games and have a interest on world history.**
 
+<h3 align="left">Some of my noob work.</h3> 
+<table>
+  <tr>
+    <td><a href="https://github.com/ZRShamim/what_the_weather">What The Weather</a></td>
+     <td><a href="https://github.com/ZRShamim/recipe_search-_app">Recipe Search App</a></td>
+     <td><a href="https://github.com/ZRShamim/modern_furniture">Modern Furniture App Design</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/ZRShamim/what_the_weather/main/assets/screenshots/weather_app.png" width=250></td>
+    <td><img src="https://raw.githubusercontent.com/ZRShamim/recipe_search-_app/main/assets/screenshots/save_page.png" width=230 ></td>
+    <td><img src="https://raw.githubusercontent.com/ZRShamim/modern_furniture/main/assets/screenshots/1.png" width=250  ></td>
+  </tr>
+ </table>
+
 <h3 align="left">How to reach me</h3>  
   <a href="mailto:zrshamim8822@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40" height="40"/></a> 
   <a href="https://www.facebook.com/Ziaur1Shamim"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/1200px-Facebook_icon_2013.svg.png" width="40" height="40"/></a> 
