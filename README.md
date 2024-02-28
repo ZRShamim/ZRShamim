@@ -7,7 +7,7 @@
 - 💬 Ask me about ... **Flutter, OOP ,Dart, GETX**
 - ⚡ About Me: ... **I am very fun loving person, love to play video games and have a interest on world history.**
 
-<h3 align="left">Some of my noob work.</h3> 
+<h3 align="left">Some of my work.</h3> 
 <table>
   <tr>
     <td><a href="https://github.com/ZRShamim/what_the_weather">What The Weather</a></td>
