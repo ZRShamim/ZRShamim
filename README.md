@@ -11,12 +11,12 @@
 <table>
   <tr>
     <td><a href="https://github.com/ZRShamim/what_the_weather">What The Weather</a></td>
-     <td><a href="https://github.com/ZRShamim/recipe_search-_app">Recipe Search App</a></td>
+     <td><a href="https://github.com/ZRShamim/playstore_clone">Play Store Download Page Clone</a></td>
      <td><a href="https://github.com/ZRShamim/modern_furniture">Modern Furniture App Design</a></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/ZRShamim/what_the_weather/main/assets/screenshots/weather_app.png" width=250></td>
-    <td><img src="https://raw.githubusercontent.com/ZRShamim/recipe_search-_app/main/assets/screenshots/save_page.png" width=230 ></td>
+    <td><img src="https://raw.githubusercontent.com/ZRShamim/playstore_clone/main/app_images/ps.gif" width=250 ></td>
     <td><img src="https://raw.githubusercontent.com/ZRShamim/modern_furniture/main/assets/screenshots/1.png" width=250  ></td>
   </tr>
  </table>
@@ -26,9 +26,11 @@
   <a href="https://www.facebook.com/Ziaur1Shamim"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/1200px-Facebook_icon_2013.svg.png" width="40" height="40"/></a> 
   <a href="https://www.linkedin.com/in/ziaur-rahman-shamim-4019a71aa/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/></a> 
 
-<h3 align="left">Languages and Tools that I know so far</h3>
+<h3 align="left">Languages and Tools that I familiar to</h3>
 <p align="left"> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="android" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" alt="android" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"/>
@@ -36,5 +38,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/1024px-Wondershare_filmora_logo.svg.png" width="40" height="40"/>
 </p>
